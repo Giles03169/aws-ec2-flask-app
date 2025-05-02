@@ -10,7 +10,7 @@ This project demonstrates how to deploy a simple Python Flask app on an AWS EC2 
 - GitHub for version control
 
 ## 🌐 Live App
-Deployed on EC2 at: `http://<your-ec2-ip>:5000`
+Deployed on EC2 at: `(http://56.228.23.184:5000/)'
 
 ## 🖼️ Screenshots
 
